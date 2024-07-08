@@ -1823,7 +1823,7 @@ for df in scenarios.values():
     df_string = m.convertToString(df)
     df_string = m.changeLayout(df_string, layout2)
       
-    name.to_csv("./output/outputDataframes_string/" + name + ".csv")
+    df_string.to_csv("./output/outputDataframes_string/" + name + ".csv")
 
 # %% SCENARIO OVERVIEW
   

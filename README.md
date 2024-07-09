@@ -68,3 +68,5 @@ The **methods.py** file contains various methods to manipulate, analyse or visua
 To keep further, unused data in the data set available, a forward sampling algorithm modified by Aurore Sallard and Milos Balac is used. This one can be found in the **FW-sampling.py** file.
 
 The required python packages can be found in **requirements.txt**
+
+All output dataframes in string format can be found in ./output/outputDataframes_string

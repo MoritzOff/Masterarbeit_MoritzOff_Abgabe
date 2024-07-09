@@ -69,4 +69,4 @@ To keep further, unused data in the data set available, a forward sampling algor
 
 The required python packages can be found in **requirements.txt**
 
-All output dataframes in string format can be found in ./output/outputDataframes_string
+All output dataframes in string format can be found in *./output/outputDataframes_string*

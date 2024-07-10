@@ -65,7 +65,7 @@ This the generation of various heatmaps takes a long time, they can be commented
 ## Further information
 The **methods.py** file contains various methods to manipulate, analyse or visualize the data. 
 
-To keep further, unused data in the data set available, a forward sampling algorithm modified by Aurore Sallard and Milos Balac is used. This one can be found in the **FW-sampling.py** file.
+To keep further, unused data in the data set available, a forward sampling algorithm modified by Aurore Sallard and Milos Balac is used. This one can be found in the **FW-sampling.py** file, which can be found at tubCloud and copied to the repository.
 
 The required python packages can be found in **requirements.txt**
 
